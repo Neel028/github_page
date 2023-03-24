@@ -44,6 +44,7 @@ function Buy() {
           <div className='img5'></div>
           <div className='price5'>
             <h6>
+              
             Neck sweatshirt
             </h6>
             <h5 className='sepical' >$25.00</h5>
